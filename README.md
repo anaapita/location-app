@@ -1,12 +1,8 @@
-# location-app
-Projeto desenvolvido com as aulas do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>. Foi realizado um 
+# Location App
+Projeto desenvolvido com as aulas do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>. Aula sobre uso do CSS onde tive a oportunidade de usar um modelo do Figma para estilização do projeto. 
 
 <div align="center" >
-  <img src="https://user-images.githubusercontent.com/95833334/203135485-a9642316-9915-4f2c-819c-a06427817478.png" alt="image-mobile-easy-shopping" height="425">
-  
-## 
-  <img src="https://user-images.githubusercontent.com/95833334/203135545-8cc74ffd-586e-4c4f-a4c6-280c9b3618c7.png" alt="signin" height="425">
-  
+  <img src="https://user-images.githubusercontent.com/95833334/203190008-a686e6af-31a2-4494-84a1-f30a01908a94.png" alt="location-app-image" height="425"> 
 
 </div>
 
